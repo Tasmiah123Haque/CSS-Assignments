@@ -1,0 +1,65 @@
+*{
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+}
+body{
+	background: grey;
+	font-family:"Arial Black" ,Arial;
+}
+.wrapper{
+	margin-top: 10%;
+
+} 
+.wrapper h1{
+	font-family: "Allura",cursive;
+	font-size: 52px;
+	margin-bottom: 60px;
+	text-align: center;
+
+}
+.team{
+	
+	text-align: center;
+	width:auto;
+	flex-wrap: wrap;
+}
+.team-member{
+background: #fff
+margin:5px;
+margin-bottom: 50px;
+width:auto;
+padding: 20px;
+line-height: 20px;
+color:white;
+position: :relative;
+display:flex;
+text-align: :center;
+}
+.team-member h3{
+	color:white;
+	font-size:20px;
+	margin-top:30px;
+}
+.team-member.team-member p.role{
+	color:black;
+	font-size: 12px;
+	text-transform: uppercase;
+	margin:12px;
+}
+.team-member.team-img{
+	 width:100px;
+	 height:300px;
+	 border-radius: 50%;
+	 position:absolute;
+	 top:-50px;
+	 left:50%;
+	 transform:translateX(-50%);
+	 background: #fff;
+
+} 
+.team-member.team-img{
+	width:100px;
+    height:300;
+    padding:10px;
+}
