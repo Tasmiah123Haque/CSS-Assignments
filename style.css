@@ -1,0 +1,49 @@
+body{
+	font-family: Arial Black,Arial;
+	padding:0px;
+	background-color: color:black;
+	text-align: center;
+	margin:0px;
+}
+header{
+	background-color: black;
+	padding:30px;
+} 
+a{
+	text-decoration:none;
+}
+*>*{
+	box-sizing: border-box;
+}
+.left-coloumn{
+float:left
+width:75%	
+background-color:black;
+} 
+.flower1{
+	width: :25%;
+	float:left;
+	text-align: center;
+}
+.flower2{
+	padding:20px;
+	background-color:black;
+	margin-top: 20px;
+	text-align: center;
+}
+h2{
+	color: #0001000
+	margin:1.50px;
+	text-align: center;
+}
+.left-coloumn{
+	float: left;
+	width: 75%;
+}
+footer{
+	background color: #dddddd;
+	padding:20px;
+	text-align: center;
+	margin-top: 20px;
+
+}
